@@ -59,3 +59,7 @@ frontend/coverage
 *.tmp
 *.temp
 
+# Optional files
+VectorShift - Frontend Technical Assessment Instructions.pdf
+frontend/README.md
+
