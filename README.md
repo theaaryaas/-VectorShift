@@ -2,6 +2,8 @@
 
 A visual pipeline builder for creating and managing AI workflows with drag-and-drop nodes.
 
+🌐 **Live Demo**: [https://vector-shift-eta.vercel.app/](https://vector-shift-eta.vercel.app/)
+
 ## Features
 
 - 🎨 **Visual Pipeline Builder** - Drag and drop nodes to create complex workflows
@@ -88,6 +90,11 @@ VectorShift/
 
 ## Deployment
 
+### Live Deployment
+
+- **Frontend (Vercel)**: [https://vector-shift-eta.vercel.app/](https://vector-shift-eta.vercel.app/)
+- **Backend (Render)**: Deployed and connected to frontend
+
 ### Frontend Deployment (Vercel/Netlify)
 
 1. Build the frontend:
@@ -110,9 +117,9 @@ VectorShift/
 ### Backend Deployment
 
 Deploy the FastAPI backend to services like:
-- **Heroku**
+- **Render** (Currently deployed)
 - **Railway**
-- **Render**
+- **Heroku**
 - **AWS Lambda** (with serverless framework)
 
 ## License
